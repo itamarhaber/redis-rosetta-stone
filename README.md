@@ -3,7 +3,7 @@ An epic effort to capture the essence of Redis in all languages
 
 Everybody knows that [Redis](https://github.com/antirez/redis) is an acronym for **RE**mote **DI**ctionary **S**erver. This repository is one half thought experiment, one half pedagogical project and the final half a joke. 
 
-Original idea suggested by [@microspino](https://twitter.com/microspino/status/610149923238055937). Contribute by creating PRs with additional languages that you master.
+Original idea suggested by [@microspino](https://twitter.com/microspino/status/610149923238055937). Contribute by creating PRs with additional languages that you master or contensting existing translations.
 
 The translation for each language must consist of the following attributes:
  * Language - the language's name
@@ -13,6 +13,9 @@ The translation for each language must consist of the following attributes:
  * Script acronym - acronymized native literal in native script
  * Phonetic acronym - the phonetic version of the native acronym
 
+The order of languages is lexicographical, naturally. The single exception to this rule is English, which appears first.
+
+## The OS Redis Rosetta Stone
 | Language | Script | Script literal           | Phonetic literal | Script acronym | Phonetic acronym
 -----------|--------|--------------------------|------------------|----------------|-----------------
 | English  | Redis  | Remote Dictionary Server |                  |                | / rɛdɪs/
