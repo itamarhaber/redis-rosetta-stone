@@ -16,5 +16,5 @@ The translation for each language must consist of the following attributes:
 | Language | Script | Script literal           | Phonetic literal | Script acronym | Phonetic acronym
 -----------|--------|--------------------------|------------------|----------------|-----------------
 | English  | Redis  | Remote Dictionary Server |                  |                | / rɛdɪs/
-| French   | Redis  | Serveur distant d'un dictionnaire | SEH-EER-VEU-ERR DEE-SS-TAH-ANT DOO-N DEE-CK-T-UO-NAH-RR | S'erdidundi | SEH-EER-DEE-DOO-N-DEE
+| French   | Redis  | Serveur distant d'un dictionnaire | SEH-EER-VEU-ERR DEE-SS-TAH-ANT DOO-N DEE-CK-T-UO-NAH-RR | S'erdi d'undi | SEH-EER-DEE DOO-N-DEE
 | Hebrew   | רדיס   | שרת מילון מרוחק | SHA-RA-T MEE-LON MEH-ROO-CHAK | שרמי"ם | SHAR-MEEM
