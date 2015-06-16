@@ -22,3 +22,4 @@ The order of languages is lexicographical, naturally. The single exception to th
 | French   | Redis  | Serveur distant d'un dictionnaire | SEH-EER-VEU-ERR DEE-SS-TAH-ANT DOO-N DEE-CK-T-UO-NAH-RR | S'erdi d'undi | SEH-EER-DEE DOO-N-DEE
 | Hebrew   | רדיס   | שרת מילון מרוחק | SHA-RA-T MEE-LON MEH-ROO-CHAK | שרמי"ם | SHAR-MEEM
 | Italian  | Redis | Server remoto di dizionari | / sɛrver reˈmɔto di diʦʦjoˈnari / | SE-RE-DI-DI | / rɛ.dis / |
+| Spanish  | Redis  | Servidor de Diccionario Remoto | SEHR-BEE-DOH-OR DEH DIK-THEO-NAH-RIO REH-MOH-TOH | SEDIR | SEH-DEER
